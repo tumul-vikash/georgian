@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218397175263",
+    "project_id": "georgian-74f15",
+    "storage_bucket": "georgian-74f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218397175263:android:7520f89ada981a8393686a",
+        "android_client_info": {
+          "package_name": "com.georgian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218397175263-2lfclu6el2b3p479lunpn4adh4hhf447.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30IGu2KV3PZ6M9cAFkTgPyzc9Bzw-q0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218397175263-2lfclu6el2b3p479lunpn4adh4hhf447.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
